@@ -1,0 +1,30 @@
+
+ /*Background color*/
+body {
+    background-color: snow;
+  }
+  
+/*About me */
+
+.About {
+
+    text-align: center;
+}
+
+.Center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.Headerlinks{
+    font-size: large;
+}
+
+.About{
+  background-color: aquamarine;
+}
+
+.link {
+  color: lime;
+}
